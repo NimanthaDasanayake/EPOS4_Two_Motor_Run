@@ -1,0 +1,3 @@
+﻿  TwoMotorRun.cpp
+D:\Github Projects\Epos_Two_Motor_Run\src\getopt.h(59): warning C4081: expected 'newline'; found ';'
+  Epos_Two_Motor_Run.vcxproj -> D:\Github Projects\Epos_Two_Motor_Run\x64\Release\Epos_Two_Motor_Run.exe
